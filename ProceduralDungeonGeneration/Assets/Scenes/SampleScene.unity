@@ -330,14 +330,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d7dfeb363920ff4fa2164d844f163ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  size: {x: 8, y: 8}
+  size: {x: 5, y: 5}
   startPos: 0
   rooms:
   - room: {fileID: 4014168122211156172, guid: 3b350242a79b9424cb1fd377824281c7, type: 3}
     minPosition: {x: 0, y: 0}
     maxPosition: {x: 5, y: 5}
     offset: {x: 6, y: 6}
-    obligatory: 0
+    obligatory: 1
   - room: {fileID: 4014168122211156172, guid: eb1f8c6e91acbe94e8b9ab6993d14e68, type: 3}
     minPosition: {x: 2, y: 2}
     maxPosition: {x: 8, y: 8}
