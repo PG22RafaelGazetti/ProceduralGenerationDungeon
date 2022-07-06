@@ -3,7 +3,7 @@
 Rafael Gazetti Bonfim
 16/06/2022
 
-My project is a procedural generated dungeon, it used prefabs and a grid to build it, based on the connection is generates the entrances and exits of each room.
+My project is a procedural generated dungeon, it uses prefabs of rooms and a grid to build it, based on the connections it generates the entrances and exits for each room.
 In the project all room have the same size but have different colors of floors depending of each prefab, the order follows a rule to select which prefabs can be created in the grid spot.
 
 I would say that the project was successful, it a simplier version than what I wanted, but it can expanded on to work with different sizes and shapes if I alter the code in the future.
