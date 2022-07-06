@@ -22,6 +22,6 @@ Path: https://github.com/PG22RafaelGazetti/ProceduralGenerationDungeon.git
 
 # *** How to use ***
 ---------------------------------------
-Open the porject on Unity and open the scene: "SampleScene", hit play, and go back to scene view to see the dungeon. You can change the size of the grid clicking on the "Generator" in the hierarchy and changing the size variable
+Open the porject on Unity and open the scene: "SampleScene", hit play, and go back to scene view to see the dungeon. You can change the size of the grid clicking on the "Generator" in the hierarchy and changing the size variable.
 
 
